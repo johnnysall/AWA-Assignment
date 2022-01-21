@@ -1,0 +1,11 @@
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\NAA.Data.csproj.CoreCompileInputs.cache
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.xml
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\NAA.Data.dll.config
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\NAA.Data.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\NAA.Data.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\NAA.Data.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\NAA.Data.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\NAA.Data.csproj.AssemblyReference.cache

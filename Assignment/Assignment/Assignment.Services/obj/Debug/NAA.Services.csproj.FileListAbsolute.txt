@@ -1,0 +1,15 @@
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\EntityFramework.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\EntityFramework.xml
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\NAA.Services.csproj.CoreCompileInputs.cache
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\NAA.Services.csproj.AssemblyReference.cache
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\NAA.Services.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\NAA.Services.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\NAA.Data.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\NAA.Data.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\NAA.Data.dll.config
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\NAA.Services.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\NAA.Services.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\NAA.Services.dll.config
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\NAA.Services.csproj.CopyComplete

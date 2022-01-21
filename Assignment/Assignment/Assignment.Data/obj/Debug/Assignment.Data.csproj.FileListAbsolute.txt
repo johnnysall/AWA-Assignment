@@ -1,0 +1,12 @@
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\Assignment.Data.dll.config
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\Assignment.Data.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\Assignment.Data.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.xml
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\Assignment.Data.csproj.AssemblyReference.cache
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\Assignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\Assignment.Data.csproj.CopyComplete
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\Assignment.Data.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Data\obj\Debug\Assignment.Data.pdb

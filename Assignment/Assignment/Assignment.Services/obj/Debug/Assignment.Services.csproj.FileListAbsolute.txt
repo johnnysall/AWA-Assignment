@@ -1,0 +1,12 @@
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\Assignment.Services.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\Assignment.Services.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\Assignment.Data.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\EntityFramework.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\Assignment.Data.pdb
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\Assignment.Data.dll.config
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\bin\Debug\EntityFramework.xml
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\Assignment.Services.csproj.AssemblyReference.cache
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\Assignment.Services.csproj.CoreCompileInputs.cache
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\Assignment.Services.csproj.CopyComplete
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\Assignment.Services.dll
+C:\Users\Johnny Salloway\Documents\Coding\C#\Assignment\Assignment\Assignment.Services\obj\Debug\Assignment.Services.pdb

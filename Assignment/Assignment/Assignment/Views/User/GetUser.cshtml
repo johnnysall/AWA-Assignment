@@ -1,0 +1,52 @@
+﻿@model NAA.Data.Models.Domain.User
+
+@{
+    ViewBag.Title = "GetUser";
+}
+
+<h3>Hello, @Html.DisplayFor(model => model.Name)</h3>
+
+
+<div>
+    <h4>Here are your Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("< Back Home", "Index", "Home") |
+    @Html.ActionLink("Edit Profile", "UpdateUser", new { userId = "john", controller = "UserAdmin" }) |
+    @Html.ActionLink("Add Profile", "AddUser", "UserAdmin") 
+</p>
